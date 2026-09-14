@@ -1,5 +1,5 @@
 // (Optional) Change the names below to your friends.
-import {Friend, Colleague, ColleagueHistory } from './myTypes'
+import {Friend, Colleague, ColleagueHistory } from './myTypes';
 
 const friend1: Friend = {
   name: "Paul Fleming",
